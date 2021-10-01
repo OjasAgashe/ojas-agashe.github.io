@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Publication_types | Ojas Agashe</title>
+    <link>https://ojas-agashe.github.io/publication_types/</link>
+      <atom:link href="https://ojas-agashe.github.io/publication_types/index.xml" rel="self" type="application/rss+xml" />
+    <description>Publication_types</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language>
+    <image>
+      <url>https://ojas-agashe.github.io/media/icon_hu2ecb015d36adf2020e239e6bbc26b40d_30100_512x512_fill_lanczos_center_3.png</url>
+      <title>Publication_types</title>
+      <link>https://ojas-agashe.github.io/publication_types/</link>
+    </image>
+    
+  </channel>
+</rss>

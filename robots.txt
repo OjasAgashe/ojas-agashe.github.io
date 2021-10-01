@@ -1,0 +1,3 @@
+User-agent: *
+
+Sitemap: https://ojas-agashe.github.io/sitemap.xml
